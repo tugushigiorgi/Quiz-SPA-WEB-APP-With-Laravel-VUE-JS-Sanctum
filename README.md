@@ -9,6 +9,7 @@ this is how looks like !
 this is how you can create new quiz , you can add as many questions as you want 
 ![create_quiz](https://user-images.githubusercontent.com/92800578/211152133-3de88b62-de7c-4202-99d8-526011ef4afe.png)
 
+![add_question](https://user-images.githubusercontent.com/92800578/211152191-c17ddb8f-8fbb-46ca-a9c3-769cef8a0dfe.png)
 
 
  
