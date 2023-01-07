@@ -3,12 +3,13 @@ in these SPA web app  user can sign in and create quiz and post it(Crud your own
 when you take quiz as normal web you can see it is correct answer or not
 
 this is how looks like ! 
+![user_welcome_screen](https://user-images.githubusercontent.com/92800578/211152152-52c5be1a-fe6f-437d-b61a-76fbc722e872.png)
 
-https://user-images.githubusercontent.com/92800578/211150673-36c5ee2c-5bb8-40ea-8611-4100770b0c38.png
+
 this is how you can create new quiz , you can add as many questions as you want 
+![create_quiz](https://user-images.githubusercontent.com/92800578/211152133-3de88b62-de7c-4202-99d8-526011ef4afe.png)
 
 
-(https://user-images.githubusercontent.com/92800578/211150709-e7a6ca8b-75b1-456c-9c4a-56e4c32a83d7.png)
 
  
  ![user_welcome_screen]
@@ -24,7 +25,8 @@ this is how correct answer is . ))
 ![quizpage2](https://user-images.githubusercontent.com/92800578/211151405-93aa61e9-ce18-4e35-a549-f4c9de772f63.png)
  scrore page ...
 ![score_page](https://user-images.githubusercontent.com/92800578/211150786-11d28dd1-36ef-4c18-8fc9-adb73265545d.png)
- 
+ ![update_quiz](https://user-images.githubusercontent.com/92800578/211152111-f44c43ea-6111-49b6-9287-3fb259f317b9.png)
+
  
 admin can approve or not , delete all quiz and so on
 ![admin_page_to_approve](https://user-images.githubusercontent.com/92800578/211151023-c0915df2-bc67-4270-8cf0-f2c1e92a8cb3.png)
