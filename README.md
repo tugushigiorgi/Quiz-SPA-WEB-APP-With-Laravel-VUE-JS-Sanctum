@@ -12,14 +12,17 @@ this is how you can create new quiz , you can add as many questions as you want
  ![user_welcome_screen](https://user-images.githubusercontent.com/92800578/211151001-a124dbea-4232-4894-bf1d-36525470c5c9.png)
 
 
-this is actual quiz page 
+this is actual quiz page  ( Answers position is randomly ordered)
 ![quiz_page](https://user-images.githubusercontent.com/92800578/211150743-20e77c43-7e8b-4c86-9fa7-082aa1be4efd.png)
  
 ![quizpage2_wronganswer](https://user-images.githubusercontent.com/92800578/211150757-b7a07353-ada4-41eb-a2c0-76db53c4b1c7.png)
+
+this is how correct answer is . ))  
+![quizpage2](https://user-images.githubusercontent.com/92800578/211151405-93aa61e9-ce18-4e35-a549-f4c9de772f63.png)
  scrore page ...
 ![score_page](https://user-images.githubusercontent.com/92800578/211150786-11d28dd1-36ef-4c18-8fc9-adb73265545d.png)
-and so on //
-![quizpage2](https://user-images.githubusercontent.com/92800578/211151405-93aa61e9-ce18-4e35-a549-f4c9de772f63.png)
+ 
+ 
 admin can approve or not , delete all quiz and so on
 ![admin_page_to_approve](https://user-images.githubusercontent.com/92800578/211151023-c0915df2-bc67-4270-8cf0-f2c1e92a8cb3.png)
 
