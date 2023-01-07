@@ -4,7 +4,7 @@ when you take quiz as normal web you can see it is correct answer or not
 
 this is how looks like ! 
 
-(https://user-images.githubusercontent.com/92800578/211150673-36c5ee2c-5bb8-40ea-8611-4100770b0c38.png)
+https://user-images.githubusercontent.com/92800578/211150673-36c5ee2c-5bb8-40ea-8611-4100770b0c38.png
 this is how you can create new quiz , you can add as many questions as you want 
 
 
