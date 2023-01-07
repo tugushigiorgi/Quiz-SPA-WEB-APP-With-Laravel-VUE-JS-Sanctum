@@ -3,7 +3,7 @@ in these SPA web app  user can sign in and create quiz and post it(Crud your own
 when you take quiz as normal web you can see it is correct answer or not
 
 this is how looks like ! 
-![this is admin page (user id = 1 ) where he/ she can see what users posted and approve or not , also delete it (Admin is a Boss :))]
+
 (https://user-images.githubusercontent.com/92800578/211150673-36c5ee2c-5bb8-40ea-8611-4100770b0c38.png)
 this is how you can create new quiz , you can add as many questions as you want 
 (https://user-images.githubusercontent.com/92800578/211150709-e7a6ca8b-75b1-456c-9c4a-56e4c32a83d7.png)
