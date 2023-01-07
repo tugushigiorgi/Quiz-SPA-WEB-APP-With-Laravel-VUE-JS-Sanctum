@@ -6,10 +6,13 @@ this is how looks like !
 
 (https://user-images.githubusercontent.com/92800578/211150673-36c5ee2c-5bb8-40ea-8611-4100770b0c38.png)
 this is how you can create new quiz , you can add as many questions as you want 
+
+
 (https://user-images.githubusercontent.com/92800578/211150709-e7a6ca8b-75b1-456c-9c4a-56e4c32a83d7.png)
 
  
- ![user_welcome_screen](https://user-images.githubusercontent.com/92800578/211151001-a124dbea-4232-4894-bf1d-36525470c5c9.png)
+ ![user_welcome_screen]
+ (https://user-images.githubusercontent.com/92800578/211151001-a124dbea-4232-4894-bf1d-36525470c5c9.png)
 
 
 this is actual quiz page  ( Answers position is randomly ordered)
