@@ -8,10 +8,12 @@ this is how looks like !
 this is how you can create new quiz , you can add as many questions as you want 
 (https://user-images.githubusercontent.com/92800578/211150709-e7a6ca8b-75b1-456c-9c4a-56e4c32a83d7.png)
 
-if you are not admin you need approve to be quiz public 
-![quiz_approve](https://user-images.githubusercontent.com/92800578/211150852-8df000f6-b2f0-4632-9bea-ada9636f73e7.png)
+ 
+ ![user_welcome_screen](https://user-images.githubusercontent.com/92800578/211151001-a124dbea-4232-4894-bf1d-36525470c5c9.png)
 
-this is actual quiz page ![quiz_page](https://user-images.githubusercontent.com/92800578/211150743-20e77c43-7e8b-4c86-9fa7-082aa1be4efd.png)
+
+this is actual quiz page 
+![quiz_page](https://user-images.githubusercontent.com/92800578/211150743-20e77c43-7e8b-4c86-9fa7-082aa1be4efd.png)
  
 ![quizpage2_wronganswer](https://user-images.githubusercontent.com/92800578/211150757-b7a07353-ada4-41eb-a2c0-76db53c4b1c7.png)
  scrore page ...
@@ -19,8 +21,12 @@ this is actual quiz page ![quiz_page](https://user-images.githubusercontent.com/
 
 ![user_welcome_screen](https://user-images.githubusercontent.com/92800578/211150924-17e4ff73-1439-4f70-a0f0-1b116d2c3b9d.png)
 
+if you are not admin you need approve to be quiz public 
+![quiz_approve](https://user-images.githubusercontent.com/92800578/211150852-8df000f6-b2f0-4632-9bea-ada9636f73e7.png)
 
-this is how you can log in and register ![register_page](https://user-images.githubusercontent.com/92800578/211150772-9a191305-06ae-4ba7-bdaa-cb13811425f3.png)
+
+this is how you can log in and register
+![register_page](https://user-images.githubusercontent.com/92800578/211150772-9a191305-06ae-4ba7-bdaa-cb13811425f3.png)
 ![loginpage](https://user-images.githubusercontent.com/92800578/211150826-6f4cf3e6-aabe-4799-b1db-03aed7327868.png)
 
 
