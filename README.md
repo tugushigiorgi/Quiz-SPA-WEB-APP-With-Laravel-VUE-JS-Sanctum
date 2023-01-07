@@ -19,7 +19,9 @@ this is actual quiz page
  scrore page ...
 ![score_page](https://user-images.githubusercontent.com/92800578/211150786-11d28dd1-36ef-4c18-8fc9-adb73265545d.png)
 
-![user_welcome_screen](https://user-images.githubusercontent.com/92800578/211150924-17e4ff73-1439-4f70-a0f0-1b116d2c3b9d.png)
+admin can approve or not , delete all quiz and so on
+![admin_page_to_approve](https://user-images.githubusercontent.com/92800578/211151023-c0915df2-bc67-4270-8cf0-f2c1e92a8cb3.png)
+
 
 if you are not admin you need approve to be quiz public 
 ![quiz_approve](https://user-images.githubusercontent.com/92800578/211150852-8df000f6-b2f0-4632-9bea-ada9636f73e7.png)
