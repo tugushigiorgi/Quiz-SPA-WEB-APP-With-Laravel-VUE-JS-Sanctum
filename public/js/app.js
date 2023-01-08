@@ -21601,16 +21601,10 @@ __webpack_require__.r(__webpack_exports__);
     SaveQuiz: function SaveQuiz() {
       var id = window.location.pathname.split('/')[2];
       axios__WEBPACK_IMPORTED_MODULE_1__["default"].put('/updatequiz/' + id, {
-        userid: 1,
         quizname: this.Quizname,
         quizlogo: this.Quizlogolink,
         questionarray: this.QuestionArray
-      }, {
-
-        //   headers: {
-        //     'x-requested-with': 'XMLHttpRequest'
-        //   }
-      }).then(function (response) {
+      }, {}).then(function (response) {
         console.log(response);
         window.location = "/";
       })["catch"](function (error) {

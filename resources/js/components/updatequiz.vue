@@ -404,16 +404,13 @@ import axios from "axios";
 
             axios.put('/updatequiz/'+id, {
 
-                userid:1,
                 quizname:  this.Quizname,
                 quizlogo:this.Quizlogolink,
                 questionarray:  this.QuestionArray,
 
             }, {
 
-//   headers: {
-//     'x-requested-with': 'XMLHttpRequest'
-//   }
+
             }).then(response => {
                 console.log(response)
                 window.location = "/"

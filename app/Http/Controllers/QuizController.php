@@ -215,13 +215,18 @@ class QuizController extends Controller
     function UpdateQuiz(Request $request,$id)
     {
 
-        $quiz =  quiz::find($id)->first();
-        $quiz->name = $request->quizname;
-        $quiz->user_id =   Auth::user()->id;
-        $quiz->quizlogo = $request->quizlogo;
+
+    //shevcvlae am metodit radgan ELOQUENT modelis metodebs ar aimportebs da errorebia
+        $result = DB::table('quiz')
+            ->where('id', $id)
+            ->update([
+                'name' => $request->quizname,
+                'quizlogo' => $request->quizlogo
+            ]);
 
 
-        if ($quiz->save()) {
+
+        if ( $result) {
 
 
             DB::table('question')->where('quiz_id',    $id)->delete();
